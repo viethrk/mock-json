@@ -1,0 +1,44 @@
+{
+  "categorys": [
+    {
+      "name": "Logitech",
+      "id": 1
+    },
+    {
+      "name": "Dell",
+      "id": 2
+    },
+    {
+      "name": "ASUS",
+      "id": 3
+    }
+  ],
+  "products": [],
+  "users": [
+    {
+      "user_name": "user_name_update1",
+      "password": "password_update1",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "user_name": "user_name2",
+      "password": "password2"
+    },
+    {
+      "id": 100,
+      "user_name": "user_name2",
+      "password": "password2"
+    },
+    {
+      "user_name": "admin",
+      "password": "admin",
+      "id": 101
+    },
+    {
+      "user_name": "manager",
+      "password": "manager",
+      "id": 102
+    }
+  ]
+}
